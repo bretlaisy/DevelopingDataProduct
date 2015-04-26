@@ -5,7 +5,7 @@ ____
 
 ### Apps to calculate the Age and Zodiac: 
 
-The apps will derive your Age and Zodiac. It will take in your birthday and make use of date time conversion and rounding of numbers functions to work out your current Age. You just need to click on the 'Display Age' or 'Display your Zodiac' and the program will return what you desired.
+The apps will derive your Age and Zodiac. It will take in your birthday and make use of date time conversion and rounding of numbers functions to work out your current Age. You just need to click on the 'Display Age' or 'Display your Zodiac' buttons and the program will return what you desired.
 
 
 ____
